@@ -360,9 +360,9 @@ span.checkmark {
     --border-color: rgba(255, 255, 255, 0.25);
     --subtle-border-color: rgba(255, 255, 255, 0.07);
     --search-border-color: rgba(255, 255, 255, 0.06);
-    --page-background-color: hsl(0, 0%, 8%);
-    --main-area-background-color: hsl(0, 0%, 12%);
-    --secondary-background-color: hsl(0, 0%, 18%);
+    --page-background-color: hsl(228, 15%, 13%);
+    --main-area-background-color: hsl(240, 12%, 10%);
+    --secondary-background-color: hsl(233, 15%, 21%);
     --popup-background-color: hsl(0, 0%, 4%);
     --brackets-color: rgba(255, 255, 255, 0.3);
     --empty-text-color: hsl(203, 5%, 70%); }
